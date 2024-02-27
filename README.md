@@ -1,2 +1,2 @@
-Hi, I’m BrandonPerry! I've completed all requirements (except an internship) for my Software Engineering student at Brigham Young University - Idaho.
-This is my personal GitHub where I post little projects that I do in my free time.
+Hi, I’m BrandonPerry! I've recently graduated with my degree in Software Engineering from Brigham Young University - Idaho.
+I post some personal projects here, along with some things I'm tinkering with.
